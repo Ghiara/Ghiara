@@ -1,8 +1,9 @@
 # Welcome to my page
 
-
 ![Ghiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiara&theme=ambient_gradient&show_icons=true)
 
+## My representative works
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghiara&repo=LEGION)](https://github.com/Ghiara/LEGION)
 <!--
 **Ghiara/Ghiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
