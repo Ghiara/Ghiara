@@ -1,4 +1,4 @@
-# Welcome to my Github page
+# Welcome to my page
 
 
 ![Ghiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiara&theme=ambient_gradient&show_icons=true)
