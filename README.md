@@ -4,6 +4,8 @@
 
 ## My representative works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghiara&repo=LEGION)](https://github.com/Ghiara/LEGION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghiara&repo=DAHLIA)](https://github.com/Ghiara/DAHLIA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghiara&repo=HELIOS)](https://github.com/Ghiara/HELIOS)
 <!--
 **Ghiara/Ghiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
