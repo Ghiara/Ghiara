@@ -59,13 +59,13 @@ I build embodied agents that can **continually acquire, reuse, and compose knowl
   <img width="100%" src="https://profilekit.vercel.app/api/section?title=Featured+Publication&amp;subtitle=Robotic+lifelong+reinforcement+learning&amp;icon=%E2%97%8F&amp;theme=tokyo_night&amp;font=space-grotesk&amp;width=900" alt="Featured Publication">
 </p>
 
-<p align="center">
-  <strong>Preserving and combining knowledge in robotic lifelong reinforcement learning</strong><br>
+<h3 align="center">
+  Preserving and combining knowledge in robotic lifelong reinforcement learning<br>
   <em>Nature Machine Intelligence</em>, 7, 256–269 (2025)<br>
   <a href="https://doi.org/10.1038/s42256-025-00983-2">Paper</a> ·
   <a href="https://ghiara.github.io/LEGION/">Project page</a> ·
   <a href="https://github.com/Ghiara/LEGION">Code</a>
-</p>
+</h3>
 
 <p align="center">
   <img width="100%" src="https://profilekit.vercel.app/api/divider?style=wave&amp;theme=tokyo_night&amp;width=900" alt="Animated wave divider">
