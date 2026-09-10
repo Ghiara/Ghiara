@@ -52,7 +52,7 @@ I build embodied agents that can **continually acquire, reuse, and compose knowl
 
 <p align="center">
   <img width="49%" src="https://profilekit.vercel.app/api/stats?username=Ghiara&amp;theme=tokyo_night&amp;font=inter&amp;card_width=440" alt="Ghiara's GitHub statistics">
-  <img width="49%" src="https://profilekit.vercel.app/api/languages?username=Ghiara&amp;langs_count=6&amp;layout=compact&amp;theme=tokyo_night&amp;font=inter&amp;card_width=440" alt="Ghiara's most-used public repository languages">
+  <img width="49%" src="https://profilekit.vercel.app/api/languages?username=Ghiara&amp;langs_count=4&amp;layout=compact&amp;theme=tokyo_night&amp;font=inter&amp;card_width=440" alt="Ghiara's most-used public repository languages">
 </p>
 
 <p align="center">
